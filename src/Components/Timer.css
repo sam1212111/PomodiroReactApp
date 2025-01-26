@@ -1,0 +1,60 @@
+body {
+    margin-top: 140px;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    min-height: 100vh; 
+  }
+  
+
+button{
+    margin:10px;
+    width: 90px;
+    padding: 6px;
+    color: rgb(0, 0, 0);
+    background-color:beige;
+}
+input{
+    min-width: 20px;
+    color: rgb(0, 0, 0);
+    background-color: wheat;
+    margin-right: 20px;
+    padding: 3px;
+}
+h2{
+    margin-left: 156px;
+}
+
+h1{
+    margin-left: 106px;
+    color: rgb(35, 156, 186);
+}
+h3{
+    margin-left: 18px;
+}
+.input-container {
+    display: flex;
+    gap: 20px; 
+    align-items: center;
+  }
+  
+  .input-container div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+.ppp{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    margin-left: 110px;
+}
+.buttons{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#root{
+    place-items: center;
+    margin-left: 22px;
+}
